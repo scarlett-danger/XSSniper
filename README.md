@@ -1,4 +1,3 @@
-```
 # XSSniper
 
 XSSniper is a powerful tool designed to scan for and exploit Cross-Site Scripting (XSS) vulnerabilities. It provides automated scanning capabilities for reflected XSS, stored XSS, and DOM-based XSS attacks. This tool is intended for educational and ethical purposes only.
@@ -45,4 +44,3 @@ XSSniper is a tool intended for educational and ethical purposes only. The autho
 ## License
 
 XSSniper is released under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for more details.
-```
